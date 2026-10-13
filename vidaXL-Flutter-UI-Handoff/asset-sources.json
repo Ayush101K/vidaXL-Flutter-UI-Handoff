@@ -1,0 +1,91 @@
+[
+  [
+    "hero.webp",
+    127132,
+    "https://corporate.vidaxl.com/wp-content/uploads/2025/10/vidaxl_home-garden.webp"
+  ],
+  [
+    "garden.jpg",
+    58733,
+    "https://www.vidaxl.nl/dw/image/v2/BFNS_PRD/on/demandware.static/-/Library-Sites-vidaXLSharedLibrary/default/dw176a6cd6/Shop%20By%20Room/500x500px-300DPI-Garden.jpg?sw=500&sfrm=png"
+  ],
+  [
+    "bedroom.jpg",
+    26654,
+    "https://www.vidaxl.nl/dw/image/v2/BFNS_PRD/on/demandware.static/-/Library-Sites-vidaXLSharedLibrary/default/dwc3941a24/Shop%20By%20Room/1000x960_Bedroom_Progressive%20jpg.jpg?sw=500&sfrm=jpg"
+  ],
+  [
+    "chair.jpg",
+    7538,
+    "https://vdxl.im/8718475551751_g_en_sq250.jpg"
+  ],
+  [
+    "bench.jpg",
+    8932,
+    "https://vdxl.im/8720286237175_g_en_sq250.jpg"
+  ],
+  [
+    "sofa.jpg",
+    23534,
+    "https://www.vidaxl.nl/dw/image/v2/BFNS_PRD/on/demandware.static/-/Sites-vidaxl-catalog-master-sku/default/dw0c6322a9/hi-res/436/554/357063/image_2_357063.jpg?sw=700"
+  ],
+  [
+    "curtains.jpg",
+    30344,
+    "https://www.vidaxl.nl/dw/image/v2/BFNS_PRD/on/demandware.static/-/Sites-vidaxl-catalog-master-sku/default/dw73101313/hi-res/536/696/603/2882/321209/image_2_321209.jpg?sw=700"
+  ],
+  {
+    "name": "bench-main-large.jpg",
+    "url": "https://vdxl.im/8720286237175_g_en_sq500.jpg",
+    "bytes": 15121,
+    "ok": true
+  },
+  {
+    "name": "bench-2.jpg",
+    "url": "https://vdxl.im/8720286237175_a_en_hd_1.jpg",
+    "bytes": 44963,
+    "ok": true
+  },
+  {
+    "name": "bench-3.jpg",
+    "url": "https://vdxl.im/8720286237175_g_en_hd_1.jpg",
+    "bytes": 46227,
+    "ok": true
+  },
+  {
+    "name": "chair-main-large.jpg",
+    "url": "https://vdxl.im/8718475551751_g_en_sq500.jpg",
+    "bytes": 14264,
+    "ok": true
+  },
+  {
+    "name": "chair-2.jpg",
+    "url": "https://vdxl.im/8718475551751_a_en_hd_1.jpg",
+    "bytes": 61761,
+    "ok": true
+  },
+  {
+    "name": "sofa-2.jpg",
+    "url": "https://vdxl.im/8721012057401_a_en_hd_1.jpg",
+    "bytes": 28136,
+    "ok": true
+  },
+  {
+    "name": "sofa-3.jpg",
+    "url": "https://vdxl.im/8721012057401_g_en_hd_1.jpg",
+    "bytes": 18685,
+    "ok": true
+  },
+  {
+    "name": "curtains-2.jpg",
+    "url": "https://vdxl.im/8720286020357_a_en_hd_1.jpg",
+    "bytes": 34271,
+    "ok": true
+  },
+  {
+    "name": "curtains-3.jpg",
+    "url": "https://vdxl.im/8720286020357_g_en_hd_1.jpg",
+    "bytes": 97376,
+    "ok": true
+  }
+]

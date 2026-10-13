@@ -1,0 +1,16 @@
+name: vidaxl_ui_handoff
+description: Reusable vidaXL mobile UI components; not a complete app or Firebase backend.
+version: 0.1.0
+publish_to: none
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
